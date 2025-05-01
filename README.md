@@ -22,7 +22,6 @@ Task 2: Create a Personalized Greeting
 3.  Prints a personalized greeting message using the full name.
 
 ## ✨ MODULE - 3 ✨
-
 ✅ Task 1:
 Task 1: Check if a Number is Even or Odd
 
